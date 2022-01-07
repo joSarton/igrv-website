@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Événements | GdR IG-RV</title><link>https://gdr-igrv.fr/event/</link><atom:link href="https://gdr-igrv.fr/event/index.xml" rel="self" type="application/rss+xml"/><description>Événements</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://gdr-igrv.fr/media/icon_hu6ab350bd9da14bf3d770a252e9dc8f37_21017_512x512_fill_lanczos_center_2.png</url><title>Événements</title><link>https://gdr-igrv.fr/event/</link></image><item><title>Journées Françaises de l'Informatique Graphique</title><link>https://gdr-igrv.fr/event/jfig2021/</link><pubDate>Wed, 24 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/jfig2021/</guid><description/></item><item><title>Journées inter-GdR CNRS MAGIS-MADICS-IGRV</title><link>https://gdr-igrv.fr/event/intergdr-magis-madics-igrv/</link><pubDate>Wed, 24 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/intergdr-magis-madics-igrv/</guid><description>&lt;hr>
+&lt;pre>&lt;code> Journées inter-GdR CNRS MAGIS-MADICS-IGRV
+Observation 3D : outils et verrous
+Paris, 24 et 25 novembre 2021
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="programme-des-journées-">Programme des journées :&lt;/h1>
+&lt;p>Mercredi 24 Novembre : de l’acquisition à la représentation de données 3D&lt;/p>
+&lt;p>Matin :&lt;/p>
+&lt;ul>
+&lt;li>9h45-10h : Accueil des participants&lt;/li>
+&lt;li>10h-10h15 : Introduction de la journée&lt;/li>
+&lt;li>10h15-11h15 : exposé “La 3D au CNES : le système CO3D et quelques applications spatiales avec Pléiades”, Laurent Lebegue et Jean-Marc Delvit, CNES) - 45’ + 15’ questions&lt;/li>
+&lt;li>11h15-12h15 : exposé “Deep learning pour les données 3D en télédétection”, Loïc Landrieu, LASTIG - 45’ + 15’ questions&lt;/li>
+&lt;li>12h15-12h30 : discussions&lt;/li>
+&lt;/ul>
+&lt;p>Après midi :&lt;/p>
+&lt;ul>
+&lt;li>14h : session interactive d’échanges entre participants : chaque participant devra fournir un transparent de présentation de sa thématique / problématique selon une trame qui sera précisée par les organisateurs.&lt;/li>
+&lt;li>15h30-16h : pause café&lt;/li>
+&lt;li>16h-18h : TP “Deep Learning for 3D Data: Semantic Segmentation of Aerial LiDAR with PointNet”, par Loïc Landrieu, LASTIG.
+Note: afin de préparer ce TP, il vous sera demandé de compléter un auto-test&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Jeudi 25 Novembre : traiter, annoter et visualiser des données 3D&lt;/p>
+&lt;p>Matin :&lt;/p>
+&lt;ul>
+&lt;li>9h-9h15 : Accueil des participants&lt;/li>
+&lt;li>9h15-9h30 : Introduction de la journée&lt;/li>
+&lt;li>9h30-10h30 : Mathieu Brédif - LASTIG, Université Gustave Eiffel, IGN-ENSG - “Navigation immersive dans des images historiques (ANR ALEGORIA)” - 45’ + 15’ questions -&lt;/li>
+&lt;li>10h30-10h45 : pause café&lt;/li>
+&lt;li>10h45-11h45 : Livio de Luca - UMR MAP, CNRS (en Visio) - “Enrichissement sémantique de ressources documentaires spatialisées pour l’étude pluridisciplinaire de Notre-Dame de Paris” - 45’ + 15’ questions.&lt;/li>
+&lt;li>11h45-12h15: discussions sur les défis et besoins&lt;/li>
+&lt;/ul>
+&lt;p>Après midi :&lt;/p>
+&lt;ul>
+&lt;li>14h-16h : TP iTowns&lt;/li>
+&lt;li>16h-16h30 : Conclusion des deux journées (organisateurs)&lt;/li>
+&lt;/ul>
+&lt;h1 id="date-et-lieu-">Date et lieu :&lt;/h1>
+&lt;ul>
+&lt;li>Géoroom IGN, 8 Avenue Pasteur, 94160 Saint-Mandé: Métro Saint-Mandé (Ligne 1) ou RER Vincennes (RER A).&lt;/li>
+&lt;li>Mercredi 24 et Jeudi 25 novembre 2021 (de 10h le mercredi à 16h30 le jeudi)&lt;/li>
+&lt;/ul>
+&lt;h1 id="participation-">Participation :&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Inscription gratuite mais obligatoire avant le 01/11/2021 (nombre de places limité) : envoyer un email à &lt;a href="mailto:gdr.madics-magis-igrv.observation3d@inria.fr">gdr.madics-magis-igrv.observation3d@inria.fr&lt;/a> en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche, thématique(s) d&amp;rsquo;intérêt(s) spécifiques sur ces journées&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Attention, en fonction des règles sanitaires et du nombre d’invités, un pass sanitaire pourra être demandé à votre arrivée.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). Dans ce cas, merci de préciser votre souhait de présenter lors de votre inscription, avec un titre.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="organisation-">Organisation :&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Ces journées sont co-organisées par les actions “Analyse d’images pour le suivi des milieux” (P. Dusseux, P.-A. Herrault, A. Puissant, D. Sheeren) et “Données 3D géospatiales” (M. Servières, S. Christophe) du GdR CNRS MAGIS, et par l’action MACLEAN du GdR CNRS MADICS. (T. Corpetti, D. Ienco, R. Interdonato, S. Lefèvre, M.-T. Pham) en partenariat avec le GdR CNRS IG-RV (G. Gesquière).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Contact : &lt;a href="mailto:gdr.madics-magis-igrv.observation3d@inria.fr">gdr.madics-magis-igrv.observation3d@inria.fr&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Les repas de midi des mercredi 24/11 et jeudi 25/11 seront pris en charge par les GdR impliqués&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Journées du GT GDMM</title><link>https://gdr-igrv.fr/event/gdmm2021/</link><pubDate>Mon, 15 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/gdmm2021/</guid><description/></item><item><title>Journée « Avatars » 2021</title><link>https://gdr-igrv.fr/event/avatars-2021/</link><pubDate>Wed, 13 Oct 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/avatars-2021/</guid><description/></item><item><title>Explication des modèles des réseaux profonds en problèmes de classification, d'amélioration et d’interprétation des images et des signaux/données (GdR ISIS, GdR IG-RV)</title><link>https://gdr-igrv.fr/event/explicationia/</link><pubDate>Mon, 11 Oct 2021 10:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/explicationia/</guid><description>&lt;p>L&amp;rsquo;apprentissage profond, un des outils-phares de l&amp;rsquo;Intelligence Artificielle, a remporté un grand succès dans de nombreux domaines en traitement et analyse des images, des vidéos, de l&amp;rsquo;information multimodale. Cependant, l&amp;rsquo;aspect boîte noire des réseaux de neurones profonds est devenu l&amp;rsquo;un des principaux obstacles à leur large acceptation dans des applications critiques telles que le diagnostic médical et la thérapie, voire la conduite autonome. Au lieu de développer et d&amp;rsquo;utiliser les réseaux de neurones profonds comme des boîtes noires et d&amp;rsquo;adapter des architectures connues à une variété de problèmes, le but de l&amp;rsquo;apprentissage profond explicable est de proposer des méthodes pour &amp;ldquo;comprendre&amp;rdquo; et &amp;ldquo;expliquer&amp;rdquo; comment ces systèmes produisent leurs décisions. L’explication des décisions des réseaux profonds comporte deux aspects: l’analyse des décisions et la présentation des explications à l’utilisateur. Elle fait donc intervenir deux communautés scientifiques Intelligence artificielle/Image et Visualisation de l’information. L&amp;rsquo;objectif de cette deuxième journée du GDR-ISIS est de rassembler la communauté des chercheurs qui travaillent sur la question de l&amp;rsquo;amélioration de l&amp;rsquo;explicabilité des algorithmes et systèmes d&amp;rsquo;IA dans le domaine image-signal et de visualisation de l’information.&lt;/p>
+&lt;p>Les principaux sujets que nous proposons de traiter sont les suivants mais peuvent être étendus :&lt;/p>
+&lt;ul>
+&lt;li>explication des caractéristiques générées par des couches de convolution des réseaux profonds convolutionnels,&lt;/li>
+&lt;li>les mécanismes d&amp;rsquo;attention dans les réseaux neuronaux profonds et leur explication ;&lt;/li>
+&lt;li>pour les données temporelles, l&amp;rsquo;explication des caractéristiques et des moments les plus importants pour la prédiction et des intervalles de temps où la contribution de chaque donnée est importante ;&lt;/li>
+&lt;li>comment l&amp;rsquo;explication peut aider à rendre les architectures d&amp;rsquo;apprentissage profond plus parcimonieuses et plus légères ;&lt;/li>
+&lt;li>lors de l&amp;rsquo;utilisation de données multimodales, comment les prédictions dans les flux de données sont corrélées et s&amp;rsquo;expliquent entre elles ;&lt;/li>
+&lt;li>la génération automatique d&amp;rsquo;explications / justifications des décisions des algorithmes et des systèmes ;&lt;/li>
+&lt;li>visualisation des explications de manière interprétable pour les utilisateurs;&lt;/li>
+&lt;li>évaluation des explications générées par l&amp;rsquo;apprentissage profond et d&amp;rsquo;autres systèmes d&amp;rsquo;IA:&lt;/li>
+&lt;/ul>
+&lt;p>Cette journée est organisée conjointement par le thème B Image et vision et le thème T conjointement avec GDR IGRV . Le programme comporte 2 conférences invitées :&lt;/p>
+&lt;p>“Une analyse théorique de la méthode LIME”, Damien Garreau, Laboratoire J.A. Dieudonné UMR CNRS 7351 Université de Nice Côte d’Azur
+&amp;ldquo;Reasoning vs. bias exploitation: X-raying high-capacity deep networks&amp;rdquo; Chrisian Wolf, LIRIS UMR 5205, INSA Lyon&lt;/p>
+&lt;p>Organisateurs :&lt;/p>
+&lt;p>GDR-ISIS&lt;/p>
+&lt;p>Nicolas Thome : &lt;a href="mailto:nicolas.thome@cnam.fr">nicolas.thome@cnam.fr&lt;/a>
+Jenny Benois-Pineau : &lt;a href="mailto:jenny.benois-pineau@u-bordeaux.fr">jenny.benois-pineau@u-bordeaux.fr&lt;/a>
+Alexandre Benoit : &lt;a href="mailto:alexandre.benoit@univ-smb.fr">alexandre.benoit@univ-smb.fr&lt;/a>&lt;/p>
+&lt;p>GDR-IGRV&lt;/p>
+&lt;p>Romain Vuillemot : &lt;a href="mailto:romain.vuillemot@ec-lyon.fr">romain.vuillemot@ec-lyon.fr&lt;/a>
+Romain Bourqui : &lt;a href="mailto:romain.bourqui@u-bordeaux.fr">romain.bourqui@u-bordeaux.fr&lt;/a>&lt;/p>
+&lt;p>Propositions des exposés sont à envoyer aux organisateurs de la journée.&lt;/p></description></item><item><title>Journées du GTAS</title><link>https://gdr-igrv.fr/event/gtas-2021/</link><pubDate>Mon, 05 Jul 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/gtas-2021/</guid><description/></item></channel></rss>

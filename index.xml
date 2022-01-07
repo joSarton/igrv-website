@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GdR IG-RV</title><link>https://gdr-igrv.fr/</link><atom:link href="https://gdr-igrv.fr/index.xml" rel="self" type="application/rss+xml"/><description>GdR IG-RV</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://gdr-igrv.fr/media/icon_hu6ab350bd9da14bf3d770a252e9dc8f37_21017_512x512_fill_lanczos_center_2.png</url><title>GdR IG-RV</title><link>https://gdr-igrv.fr/</link></image><item><title>Mobilité</title><link>https://gdr-igrv.fr/actions/mobilite/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/actions/mobilite/</guid><description>&lt;p>Le GdR met en place des actions de mobilités internes à destination des doctorants et
+jeunes chercheuses.eurs. Que ce soit pour initier des
+collaborations, ou se former auprès d&amp;rsquo;autres équipes, ces mobilités
+sont d&amp;rsquo;une grande utilité en tant que levier, avec un format court et
+léger de candidature et de financement.&lt;/p>
+&lt;h2 id="demander-le-soutien-du-gdr-pour-une-mobilité">Demander le soutien du GdR pour une mobilité&lt;/h2>
+&lt;p>Les modalités seront précisées très prochainement.&lt;/p>
+&lt;h2 id="mobilités-passées">Mobilités passées&lt;/h2>
+&lt;h3 id="en-2020-">En 2020 :&lt;/h3>
+&lt;ul>
+&lt;li>Nouvelle collaboration entre IRIT, ICube (IGG) et XLIM (IG), faisant suite à la journée thématique inter-GT GTAS/GTMG 2019 du GDR IG-RV Gestion de la Topologie en Animation, Simulation et Réalité Virtuelle et le GTMG2020, et concernant la mise en œuvre d&amp;rsquo;un algorithme de génération de maillage volumique à partir de squelette et en particulier un maillage quad autour d’une sphère pour les embranchements.&lt;/li>
+&lt;/ul>
+&lt;h3 id="en-2017-">En 2017 :&lt;/h3>
+&lt;p>*Nouvelle collaboration et co-encadrement en le CReSTIC et CAOR (Mines Paris Tech) sur la simulation basée image: Des moyens de calculs aux moyens de restitution,
+*Collaboration et co-encadrement entre XLIM (axe ASALI) et ICube (IGG) sur la synthèse de texture procédurale multi-résolution,&lt;/p>
+&lt;ul>
+&lt;li>Nouvelle collaboration entre le LORIA (Adagio) et LIGIM (A3SI) sur l&amp;rsquo;invariance géométrique par transformations rigides digitales,&lt;/li>
+&lt;li>Co-encadrement de thèse entre le LE2i (MSGI) et l&amp;rsquo;IRIT (Vortex) sur l&amp;rsquo;analyse d&amp;rsquo;images pour la reconstruction 3D à base de squelettes,&lt;/li>
+&lt;li>Co-encadrement de thèse entre ICA et XLIM (SIR) autour d&amp;rsquo;un nouveau pipeline de modélisation et de simulation temps réel pour l’animation d’images par modèles physiques : MIMESIS Temps-réel,&lt;/li>
+&lt;li>Nouvelle collaboration entre l&amp;rsquo;IRISA (FRVSENSE) et l&amp;rsquo;IRIT (Vortex) sur l&amp;rsquo;étude des aspects perceptuels pour l’interpolation contrainte de palettes de couleurs.&lt;/li>
+&lt;li>En 2016 :&lt;/li>
+&lt;li>Collaboration entre XLIM (axe ASALI) et LIGM (A3SI) sur la reconnaissance de coniques,&lt;/li>
+&lt;li>Collaboration entre Lab-STICC (IHSEV) et XLIM (SIR) sur la représentation de vagues déferlantes en synthèse d’image,&lt;/li>
+&lt;li>Collaboration entre LE2i (MSGI) et ICube (IGG) pour l&amp;rsquo;écriture d&amp;rsquo;un ouvrage sur sur la modélisation géométrique par contraintes,&lt;/li>
+&lt;li>Collaboration entre ICube (IGG) et LIP6 (Pequan) sur la génération de maillaqe pour l&amp;rsquo;animation multi-résolution d&amp;rsquo;objets déformables en temps-réel.&lt;/li>
+&lt;/ul>
+&lt;h3 id="en-2015">En 2015&lt;/h3>
+&lt;ul>
+&lt;li>Collaboration associant l&amp;rsquo;expertise en modélisation géométrique et algèbre géométrique du laboratoire XLIM-SIC (IG) avec l&amp;rsquo;expérience en vision par ordinateur et géométrie discrète (GdR ISIS) du laboratoire LIGM,&lt;/li>
+&lt;li>Collaboration internationale visant à intégrer une architecture cognitive basée sur le principe de simulation mentale à un agent conversationnel animé dans le contexte d&amp;rsquo;une application médicale entre Lab-STICC (IHSEV) et Florida International University (soutien partiel du GdR IG-RV),&lt;/li>
+&lt;li>Collaboration entre ICube (IGG) et IRISA (Hybrid) autour de la réalité virtuelle pour le WEB ,&lt;/li>
+&lt;li>Collaboration entre XLIM (SIR) et ICA sur la modélisation physico-topologique,
+*Collaboration entre IRIT (Vortex) et LIRIS (M2DISCO) sur la visualisation et d&amp;rsquo;édition collaborative de modèles 3D dans un environnement web,&lt;/li>
+&lt;li>Collaboration entre IRIT (Vortex) et le LIRMM (ICAR) sur l&amp;rsquo;analyse géométrique et morphométrique pour la caractérisation et le recalage des objets 3D,&lt;/li>
+&lt;li>Collaboration entre le LSIS (G-Mod) et le LIRIS (M2DISCO) sur la génération de maillages 3D avec les hiérarchies de diamants,&lt;/li>
+&lt;li>Collaboration entre ICube (IGG) et LJK (Imagine) sur la génération de textures dynamiques sur des surfaces animées,&lt;/li>
+&lt;/ul>
+&lt;h3 id="en-2014">En 2014&lt;/h3>
+&lt;ul>
+&lt;li>Collaboration entre le Lab-STICC (IHSEV) et l&amp;rsquo;Institut du Mouvement sur l’interaction utilisateur - humain virtuel en environnement immersif,&lt;/li>
+&lt;li>Collaboration entre l&amp;rsquo;IRIT (Vortex) et le Le2i (MSGI) sur la représentation multi-résolution de modèles 3D à partir de squelettes en vue d&amp;rsquo;application à la reconstruction, l&amp;rsquo;édition et la compression.&lt;/li>
+&lt;/ul></description></item><item><title>Actions inter-GdR</title><link>https://gdr-igrv.fr/actions/inter-gdr/</link><pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/actions/inter-gdr/</guid><description>&lt;p>Le GdR collabore avec d&amp;rsquo;autres GdR et structures d&amp;rsquo;animation de la recherche autour de journées thématiques spécifiques.&lt;/p>
+&lt;h2 id="en-collaboration-avec-le-gdr-ia">En collaboration avec le GdR IA&lt;/h2>
+&lt;ul>
+&lt;li>« L&amp;rsquo;IA des personnages autonomes dans les mondes virtuels» : 7 novembre 2019 au LIP6 – Jussieu, Journée co-organisée par le GT IA et Jeux du GdR IA et le GdR IGRV.&lt;/li>
+&lt;/ul>
+&lt;h2 id="en-collaboration-avec-le-gdr-isis">En collaboration avec le GdR ISIS&lt;/h2>
+&lt;ul>
+&lt;li>« Explication des modèles des réseaux profonds en problèmes de classification, d&amp;rsquo;amélioration et d&amp;rsquo;interprétation des images et des signaux/données », lundi 11 octobre 2021. &lt;a href="http://www.gdr-isis.fr/index.php/reunion/460/">http://www.gdr-isis.fr/index.php/reunion/460/&lt;/a>&lt;/li>
+&lt;li>« Computational photography », jeudi 4 juin 2020 la 1ère partie à distance.&lt;/li>
+&lt;li>« Compression et Représentation des Signaux Audiovisuels », CORESA 2014 dans le cadre de Reims Image 2014
+&lt;a href="http://reimsimage2014.univ-reims.fr/coresa-2014/">http://reimsimage2014.univ-reims.fr/coresa-2014/&lt;/a>&lt;/li>
+&lt;li>« De l’acquisition à la compression des objets 3D – AC3D » : Journée organisée dans le cadre de l&amp;rsquo;action Maillage et Animation 3D / Thème D du GdR ISIS, en collaboration avec le GdR IG-RV (et précédemment GdR IG)
+&lt;a href="http://www.i3s.unice.fr/~fpayan/gdr-isis.php">http://www.i3s.unice.fr/~fpayan/gdr-isis.php&lt;/a>
+&lt;ul>
+&lt;li>AC3D’15, 26-28 Juin 2015 à Furiani (Corse)&lt;/li>
+&lt;li>AC3D’14, Juin 2014 à Porquerolles&lt;/li>
+&lt;li>AC3D’13, Mai 2013 à Porquerolles&lt;/li>
+&lt;li>AC3D’11, 26-27 avril 2011 à Porquerolles&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>« La chaine numérique 3D : de l’acquisition à la compression des données », 24-30 Juin 2012 à Peyresq, 7ème école d’été en traitement du signal et des images du Gretsi.&lt;/li>
+&lt;/ul>
+&lt;h2 id="en-collaboration-avec-le-gdr-magis">En collaboration avec le GdR MAGIS&lt;/h2>
+&lt;ul>
+&lt;li>Série de webinars &amp;ldquo;Autour de la 3D&amp;rdquo;, &lt;a href="https://github.com/VCityTeam/MAGIS-AP3D/blob/master/Media/README.md" target="_blank" rel="noopener">programme 2021-2022 détaillé et les présentations 2020-2021&lt;/a>.&lt;/li>
+&lt;li>« 3D et géospatial », prévue en 2021.&lt;/li>
+&lt;li>« Visualisation &amp;amp; HCI for Crowd-Sourcing », mardi 25 juin 2019 à Clermont-Ferrand, en collaboration avec le GdR MAGIS.&lt;/li>
+&lt;/ul>
+&lt;h2 id="en-collaboration-avec-le-gdr-appamat-section-8-du-conrs-de-linsis">En collaboration avec le GdR APPAMAT (section 8 du CoNRS) de l&amp;rsquo;INSIS&lt;/h2>
+&lt;ul>
+&lt;li>« Matériaux réels / Matériaux virtuels », vendredi 12 juin 2020 la 1ère partie à distance avec le GdR APPAMAT.
+En collaboration avec le feu-GdR STIC Santé :&lt;/li>
+&lt;li>« Conception de simulateurs médico-chirurgicaux ? - Comment concevoir la partie numérique d’un simulateur interactif pour l’apprentissage de gestes médicaux ? » : 30 Juin au 4 Juillet 2014 à Lyon, Ecole thématique nationale organisée dans le cadre des actions du Thème F du GdR STIC Santé, en collaboration avec le GdR IG-RV
+&lt;a href="http://ecole-simu2014.sciencesconf.org/">http://ecole-simu2014.sciencesconf.org/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Journées Françaises de l'Informatique Graphique</title><link>https://gdr-igrv.fr/event/jfig2021/</link><pubDate>Wed, 24 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/jfig2021/</guid><description/></item><item><title>Journées inter-GdR CNRS MAGIS-MADICS-IGRV</title><link>https://gdr-igrv.fr/event/intergdr-magis-madics-igrv/</link><pubDate>Wed, 24 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/intergdr-magis-madics-igrv/</guid><description>&lt;hr>
+&lt;pre>&lt;code> Journées inter-GdR CNRS MAGIS-MADICS-IGRV
+Observation 3D : outils et verrous
+Paris, 24 et 25 novembre 2021
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="programme-des-journées-">Programme des journées :&lt;/h1>
+&lt;p>Mercredi 24 Novembre : de l’acquisition à la représentation de données 3D&lt;/p>
+&lt;p>Matin :&lt;/p>
+&lt;ul>
+&lt;li>9h45-10h : Accueil des participants&lt;/li>
+&lt;li>10h-10h15 : Introduction de la journée&lt;/li>
+&lt;li>10h15-11h15 : exposé “La 3D au CNES : le système CO3D et quelques applications spatiales avec Pléiades”, Laurent Lebegue et Jean-Marc Delvit, CNES) - 45’ + 15’ questions&lt;/li>
+&lt;li>11h15-12h15 : exposé “Deep learning pour les données 3D en télédétection”, Loïc Landrieu, LASTIG - 45’ + 15’ questions&lt;/li>
+&lt;li>12h15-12h30 : discussions&lt;/li>
+&lt;/ul>
+&lt;p>Après midi :&lt;/p>
+&lt;ul>
+&lt;li>14h : session interactive d’échanges entre participants : chaque participant devra fournir un transparent de présentation de sa thématique / problématique selon une trame qui sera précisée par les organisateurs.&lt;/li>
+&lt;li>15h30-16h : pause café&lt;/li>
+&lt;li>16h-18h : TP “Deep Learning for 3D Data: Semantic Segmentation of Aerial LiDAR with PointNet”, par Loïc Landrieu, LASTIG.
+Note: afin de préparer ce TP, il vous sera demandé de compléter un auto-test&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Jeudi 25 Novembre : traiter, annoter et visualiser des données 3D&lt;/p>
+&lt;p>Matin :&lt;/p>
+&lt;ul>
+&lt;li>9h-9h15 : Accueil des participants&lt;/li>
+&lt;li>9h15-9h30 : Introduction de la journée&lt;/li>
+&lt;li>9h30-10h30 : Mathieu Brédif - LASTIG, Université Gustave Eiffel, IGN-ENSG - “Navigation immersive dans des images historiques (ANR ALEGORIA)” - 45’ + 15’ questions -&lt;/li>
+&lt;li>10h30-10h45 : pause café&lt;/li>
+&lt;li>10h45-11h45 : Livio de Luca - UMR MAP, CNRS (en Visio) - “Enrichissement sémantique de ressources documentaires spatialisées pour l’étude pluridisciplinaire de Notre-Dame de Paris” - 45’ + 15’ questions.&lt;/li>
+&lt;li>11h45-12h15: discussions sur les défis et besoins&lt;/li>
+&lt;/ul>
+&lt;p>Après midi :&lt;/p>
+&lt;ul>
+&lt;li>14h-16h : TP iTowns&lt;/li>
+&lt;li>16h-16h30 : Conclusion des deux journées (organisateurs)&lt;/li>
+&lt;/ul>
+&lt;h1 id="date-et-lieu-">Date et lieu :&lt;/h1>
+&lt;ul>
+&lt;li>Géoroom IGN, 8 Avenue Pasteur, 94160 Saint-Mandé: Métro Saint-Mandé (Ligne 1) ou RER Vincennes (RER A).&lt;/li>
+&lt;li>Mercredi 24 et Jeudi 25 novembre 2021 (de 10h le mercredi à 16h30 le jeudi)&lt;/li>
+&lt;/ul>
+&lt;h1 id="participation-">Participation :&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Inscription gratuite mais obligatoire avant le 01/11/2021 (nombre de places limité) : envoyer un email à &lt;a href="mailto:gdr.madics-magis-igrv.observation3d@inria.fr">gdr.madics-magis-igrv.observation3d@inria.fr&lt;/a> en précisant votre nom, prénom, laboratoire, jours de présence, thématique de recherche, thématique(s) d&amp;rsquo;intérêt(s) spécifiques sur ces journées&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Attention, en fonction des règles sanitaires et du nombre d’invités, un pass sanitaire pourra être demandé à votre arrivée.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Si le temps le permet, une présentation de 5 minutes de vos travaux pourra être envisagée (session interactive du 24/11 après-midi). Dans ce cas, merci de préciser votre souhait de présenter lors de votre inscription, avec un titre.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="organisation-">Organisation :&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Ces journées sont co-organisées par les actions “Analyse d’images pour le suivi des milieux” (P. Dusseux, P.-A. Herrault, A. Puissant, D. Sheeren) et “Données 3D géospatiales” (M. Servières, S. Christophe) du GdR CNRS MAGIS, et par l’action MACLEAN du GdR CNRS MADICS. (T. Corpetti, D. Ienco, R. Interdonato, S. Lefèvre, M.-T. Pham) en partenariat avec le GdR CNRS IG-RV (G. Gesquière).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Contact : &lt;a href="mailto:gdr.madics-magis-igrv.observation3d@inria.fr">gdr.madics-magis-igrv.observation3d@inria.fr&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Les repas de midi des mercredi 24/11 et jeudi 25/11 seront pris en charge par les GdR impliqués&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Journées du GT GDMM</title><link>https://gdr-igrv.fr/event/gdmm2021/</link><pubDate>Mon, 15 Nov 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/gdmm2021/</guid><description/></item><item><title>Journée « Avatars » 2021</title><link>https://gdr-igrv.fr/event/avatars-2021/</link><pubDate>Wed, 13 Oct 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/avatars-2021/</guid><description/></item><item><title>Explication des modèles des réseaux profonds en problèmes de classification, d'amélioration et d’interprétation des images et des signaux/données (GdR ISIS, GdR IG-RV)</title><link>https://gdr-igrv.fr/event/explicationia/</link><pubDate>Mon, 11 Oct 2021 10:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/explicationia/</guid><description>&lt;p>L&amp;rsquo;apprentissage profond, un des outils-phares de l&amp;rsquo;Intelligence Artificielle, a remporté un grand succès dans de nombreux domaines en traitement et analyse des images, des vidéos, de l&amp;rsquo;information multimodale. Cependant, l&amp;rsquo;aspect boîte noire des réseaux de neurones profonds est devenu l&amp;rsquo;un des principaux obstacles à leur large acceptation dans des applications critiques telles que le diagnostic médical et la thérapie, voire la conduite autonome. Au lieu de développer et d&amp;rsquo;utiliser les réseaux de neurones profonds comme des boîtes noires et d&amp;rsquo;adapter des architectures connues à une variété de problèmes, le but de l&amp;rsquo;apprentissage profond explicable est de proposer des méthodes pour &amp;ldquo;comprendre&amp;rdquo; et &amp;ldquo;expliquer&amp;rdquo; comment ces systèmes produisent leurs décisions. L’explication des décisions des réseaux profonds comporte deux aspects: l’analyse des décisions et la présentation des explications à l’utilisateur. Elle fait donc intervenir deux communautés scientifiques Intelligence artificielle/Image et Visualisation de l’information. L&amp;rsquo;objectif de cette deuxième journée du GDR-ISIS est de rassembler la communauté des chercheurs qui travaillent sur la question de l&amp;rsquo;amélioration de l&amp;rsquo;explicabilité des algorithmes et systèmes d&amp;rsquo;IA dans le domaine image-signal et de visualisation de l’information.&lt;/p>
+&lt;p>Les principaux sujets que nous proposons de traiter sont les suivants mais peuvent être étendus :&lt;/p>
+&lt;ul>
+&lt;li>explication des caractéristiques générées par des couches de convolution des réseaux profonds convolutionnels,&lt;/li>
+&lt;li>les mécanismes d&amp;rsquo;attention dans les réseaux neuronaux profonds et leur explication ;&lt;/li>
+&lt;li>pour les données temporelles, l&amp;rsquo;explication des caractéristiques et des moments les plus importants pour la prédiction et des intervalles de temps où la contribution de chaque donnée est importante ;&lt;/li>
+&lt;li>comment l&amp;rsquo;explication peut aider à rendre les architectures d&amp;rsquo;apprentissage profond plus parcimonieuses et plus légères ;&lt;/li>
+&lt;li>lors de l&amp;rsquo;utilisation de données multimodales, comment les prédictions dans les flux de données sont corrélées et s&amp;rsquo;expliquent entre elles ;&lt;/li>
+&lt;li>la génération automatique d&amp;rsquo;explications / justifications des décisions des algorithmes et des systèmes ;&lt;/li>
+&lt;li>visualisation des explications de manière interprétable pour les utilisateurs;&lt;/li>
+&lt;li>évaluation des explications générées par l&amp;rsquo;apprentissage profond et d&amp;rsquo;autres systèmes d&amp;rsquo;IA:&lt;/li>
+&lt;/ul>
+&lt;p>Cette journée est organisée conjointement par le thème B Image et vision et le thème T conjointement avec GDR IGRV . Le programme comporte 2 conférences invitées :&lt;/p>
+&lt;p>“Une analyse théorique de la méthode LIME”, Damien Garreau, Laboratoire J.A. Dieudonné UMR CNRS 7351 Université de Nice Côte d’Azur
+&amp;ldquo;Reasoning vs. bias exploitation: X-raying high-capacity deep networks&amp;rdquo; Chrisian Wolf, LIRIS UMR 5205, INSA Lyon&lt;/p>
+&lt;p>Organisateurs :&lt;/p>
+&lt;p>GDR-ISIS&lt;/p>
+&lt;p>Nicolas Thome : &lt;a href="mailto:nicolas.thome@cnam.fr">nicolas.thome@cnam.fr&lt;/a>
+Jenny Benois-Pineau : &lt;a href="mailto:jenny.benois-pineau@u-bordeaux.fr">jenny.benois-pineau@u-bordeaux.fr&lt;/a>
+Alexandre Benoit : &lt;a href="mailto:alexandre.benoit@univ-smb.fr">alexandre.benoit@univ-smb.fr&lt;/a>&lt;/p>
+&lt;p>GDR-IGRV&lt;/p>
+&lt;p>Romain Vuillemot : &lt;a href="mailto:romain.vuillemot@ec-lyon.fr">romain.vuillemot@ec-lyon.fr&lt;/a>
+Romain Bourqui : &lt;a href="mailto:romain.bourqui@u-bordeaux.fr">romain.bourqui@u-bordeaux.fr&lt;/a>&lt;/p>
+&lt;p>Propositions des exposés sont à envoyer aux organisateurs de la journée.&lt;/p></description></item><item><title>Prix de thèse du GDR IG-RV 2021</title><link>https://gdr-igrv.fr/post/21-10-06-prix-these-2021/</link><pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/21-10-06-prix-these-2021/</guid><description>&lt;p>&lt;strong>Résultats du prix de thèse du GDR IG-RV 2021 en collaboration avec l’Association Française d’Informatique Graphique, l’Association Française de la XR et le Chapitre Français d’Eurographics.&lt;/strong>&lt;/p>
+&lt;p>Pour cette cinquième édition, la participation au concours était ouverte aux docteurs ayant soutenu leur thèse entre le 01/01/2020 et le 31/12/2020. Il y a eu 11 soumissions, toutes d’un excellent niveau scientifique et couvrant largement les thématiques du GDR IG-RV.&lt;/p>
+&lt;p>Cette année, le jury de sélection a été animé par David Coeurjolly et Loïc Barthe et il était composé de Florence Bertails-Descoubes, Georges-Pierre Bonneau, George Drettakis, Samuel Hornus, Daniel Mestre, Alexis Paljic et Julien Tierny.&lt;/p>
+&lt;p>Le prix de thèse du GDR IG-RV 2021 est décerné à :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Rebecca Fribourg&lt;/strong> pour sa thèse intitulée &lt;em>« Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality »&lt;/em>, effectuée sous la direction d’Anatole Lécuyer, Ferran Argelaguet et Ludovic Hoyet à l’Université de Rennes 1.&lt;/li>
+&lt;/ul>
+&lt;p>Un accessit a aussi été décerné à :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Pierre Ecormier-Nocca&lt;/strong> pour sa thèse intitulée &lt;em>« Authoring consistent, animated ecosystems: Efficient learning from partial data »&lt;/em>, effectuée sous la direction de Marie-Paule Cani et Pooran Memari à l’Ecole Polytechnique.&lt;/li>
+&lt;/ul>
+&lt;p>Nous tenons à remercier l’ensemble des candidats pour leur participation,&lt;/p>
+&lt;p>Les animateurs du prix de thèse 2021,
+David Coeurjolly et Loïc Barthe&lt;/p></description></item><item><title>De nouveaux rédacteurs scientifiques rejoignent l'équipe de rédaction du site</title><link>https://gdr-igrv.fr/post/21-07-21-new-redactors/</link><pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/21-07-21-new-redactors/</guid><description>&lt;p>&lt;a href="https://gdr-igrv.fr/author/johanna-delanoy/">Johanna&lt;/a>, &lt;a href="https://gdr-igrv.fr/author/rebecca-fribourg/">Rebecca&lt;/a> et &lt;a href="https://gdr-igrv.fr/author/etienne-corman/">Étienne&lt;/a> rejoignent l&amp;rsquo;équipe de rédaction du site web du GdR. Ils participeront à la rédaction des articles et brèves du site et à la communication du GdR. Merci à eux !&lt;/p></description></item><item><title>Journées du GTAS</title><link>https://gdr-igrv.fr/event/gtas-2021/</link><pubDate>Mon, 05 Jul 2021 09:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/event/gtas-2021/</guid><description/></item><item><title>Groupe de travail "Animation &amp; Simulation" (GT-AS)</title><link>https://gdr-igrv.fr/gts/gt-as/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-as/</guid><description>&lt;p>L’animation et la simulation s’intéressent à la modélisation du
+mouvement en informatique graphique et réalité virtuelle avec deux
+points de vue très actifs et complémentaires : 1/ la modélisation et
+synthèse du mouvement et 2/ son analyse. Dans notre domaine, mouvement
+signifie le déplacement des objets, mais aussi leur déformation,
+lorsqu’il s’agit d’objets “mous” par exemple, ou d’objets articulés
+comme des personnages, et leurs transformations au cours du temps
+(rupture, fracture, recombinaison&amp;hellip;).&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong>: Nicolas Castagné (ICA, Grenoble) et Caroline Larboulette (IRISA, Univ. Bretagne Sud)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Animation, simulation, image et temps, synthèse et capture du mouvement, modèles comportementaux, modèles physiques &amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Géométrie discrète &amp; morphologie mathématique" (GT-GDMM)</title><link>https://gdr-igrv.fr/gts/gt-gdmm/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-gdmm/</guid><description>&lt;img src="segmentation_regularisation.png" height="300">
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gt-gdmm.u-bordeaux.fr">http://gt-gdmm.u-bordeaux.fr&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Isabelle Sivignon (GIPSA-Lab, Grenoble) et Nicolas Passat (CReSTIC, Reims)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Géométrie discrète, morphologie mathématique, topologies discrète et digitale, imagerie discrète, graphes.&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Description&lt;/strong> : Par définition, le barycentre du GT GDMM est
+constitué par la Morphologie mathématique et de la Géométrie
+discrète, deux domaines dans lesquels la recherche française tient
+historiquement une place prépondérante. Néanmoins, les champs
+d’investigation du GT GDMM se sont largement ouverts au cours des
+dernières années, et la géométrie discrète comme la morphologie
+mathématique se développent désormais fortement à leurs interfaces,
+et notamment en lien avec les domaines suivants :&lt;/p>
+&lt;ul>
+&lt;li>Traitement de la géométrie ou Geometry processing, géométrie algorithmique, analyse numérique pour la géométrie digitale ;&lt;/li>
+&lt;li>Optimisation discrète, théorie des graphes, traitement du signal, machine learning pour la morphologie mathématique.&lt;/li>
+&lt;/ul>
+&lt;p>Ainsi, en sus des travaux intrinsèquement liés au GT GDMM, ces
+développements permettent d’établir des ponts avec plusieurs autres
+grands domaines relevant du GdR IGRV. On peut souligner par exemple des
+liens avec des problématiques de rendu (e.g. le développement
+d’opérateurs différentiels robustes pour l’application de textures sur
+des données discrètes) ; de la modélisation géométrique (e.g. modéli-
+sation par croquis via une forme digitale, modélisation de formes
+digitales par union de convexes) ; ou encore de la visualisation
+(e.g. visualisation de données de grandes dimensions par l’utilisation
+de modèles hiérarchiques de structures combinatoires).&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "modélisation géométrique" (GT-MG)</title><link>https://gdr-igrv.fr/gts/gt-mg/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-mg/</guid><description>&lt;p>&lt;img src="logo-gt-mg.png" alt="">&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtmg.u-bourgogne.fr/">http://gtmg.u-bourgogne.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Géraldine Morin (IRIT, Toulouse) et Romain Raffin (LIB, Dijon)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Courbes, surfaces, maillages, modèles 3D, nuages de points, reconstruction, contraintes, déformation, multirésolution, paramétrisation, apprentissage, géométrie différentielle, algorithmes de subdivision, topologie, axe médian, squelette.&lt;/li>
+&lt;/ul>
+&lt;p>La modélisation géométrique est un domaine de recherche commun à l&amp;rsquo;informatique et aux mathématiques appliquées qui s&amp;rsquo;intéresse à des méthodes numériques et algorithmiques de création, représentation, modélisation, analyse et acquisition de formes géométriques 3D (courbes et surfaces, maillages, nuages de points et volumes, domaines discret, continu et semi-continu, analyse de formes, descripteurs).&lt;/p>
+&lt;p>Ce domaine de recherche combine théorie et applications de plusieurs disciplines :&lt;/p>
+&lt;ul>
+&lt;li>Informatique (algorithmes, structures de données, calcul numérique et symbolique, informatique graphique, géométrie algorithmique, traitement de données géométriques),&lt;/li>
+&lt;li>Mathématiques (géométrie différentielle, géométrie algébrique, approximation, optimisation, topologie calculatoire),&lt;/li>
+&lt;li>Ingénierie (génération de maillages, éléments finis, conception, prototypage virtuel).&lt;/li>
+&lt;/ul>
+&lt;p>Une des spécificités de la modélisation géométrique est de considérer de façon transverse ces 3 domaines. La modélisation sous contraintes utilise un ensemble de règles (géométrique, physique) et une résolution formelle ; des critères sémantiques ou esthétiques sont parfois considérés. La génération des maillages pour les méthodes à éléments finis en 2D ou 3D proposent des modèles hybrides (hexaédriques, tétraédriques ou plus généraux) ; les modèles volumiques gagnent en importance dans le contexte de la fabrication additive. Le &lt;em>geometry processing&lt;/em>, qui extrait des modèles géométriques à partir de données 3D larges et non-structurées, se base sur des théories mathématiques reconnues (optimisation robuste, transport optimal, méthodes &lt;em>a contrario&lt;/em>).&lt;/p>
+&lt;p>Traditionnellement les domaines applicatifs sont ceux de la CAO, la mécanique, le &lt;em>design&lt;/em> ou le jeu vidéo. De plus en plus, grâce à la démocratisation des moyens de numérisation, les contenus 3D sont largement présents dans tous les domaines industriels et à l&amp;rsquo;interface de nombreuses disciplines (multimedia, médecine, patrimoine&amp;hellip;). La demande de manipulation, de compréhension et d&amp;rsquo;analyse de modèles géométriques est donc plus pregnante, allant de la numérisation à l&amp;rsquo;impression de prototypes (grâce à la fabrication additive) en passant par les méthodes d&amp;rsquo;apprentissage (en particulier apprentissage profond).&lt;/p>
+&lt;p>Le GT MG fait également partie des GT du GDR Informatique Mathématique &lt;a href="https://www.gdr-im.fr/" target="_blank" rel="noopener">GDR IM&lt;/a>.&lt;/p></description></item><item><title>Groupe de travail "Rendu" (GT-rendu)</title><link>https://gdr-igrv.fr/gts/gt-rendu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-rendu/</guid><description>&lt;p>&lt;img src="rep-img-gt-rendu.jpg" height="300" >&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtrendu.blogspot.fr/">http://gtrendu.blogspot.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsable&lt;/strong> : Romain Vergne (LJK, Grenoble), George Drettakis (INRIA, Sophia-Antipolis)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : rendu photo réaliste, simulation de l&amp;rsquo;éclairage et d&amp;rsquo;effets lumineux, rendu inverse, rendu expressif, rendu artistique, réalité augmentée, rendu temps réel, rendu basé image.&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Description&lt;/strong> : Les objectifs du GT Rendu peuvent se résumer comme suit :&lt;/p>
+&lt;ul>
+&lt;li>Comprendre et prendre en compte la plupart des phénomènes lumineux pour créer des images réalistes, en maîtrisant les erreurs engendrées entre les modèles utilisés et la réalité.&lt;/li>
+&lt;li>Comprendre, modéliser et mettre en évidence les informations pertinentes pour obtenir des images adaptées à la communication et à l&amp;rsquo;expression visuelle.&lt;/li>
+&lt;/ul>
+&lt;p>Les modèles de rendu, réaliste ou non, deviennent de plus en plus complexes et conduisent donc à des temps de calcul de plus en plus grands. L&amp;rsquo;un des enjeux de la synthèse d&amp;rsquo;images reste le développement d&amp;rsquo;algorithmes plus performants en terme de vitesse de calcul. Un problème scientifique fondamental concerne la manipulation temps réel de grands volumes de données. Des problèmes algorithmiques difficiles restent à explorer et rejoignent les problèmes algorithmiques précédemment cités si l&amp;rsquo;on veut bénéficier de techniques de visualisation temps réel et dynamique des données.
+Les travaux récents des équipes françaises d&amp;rsquo;informatique graphique ont permis des avancées significatives dans la plupart des thématiques liées au rendu :&lt;/p>
+&lt;ul>
+&lt;li>L&amp;rsquo;acquisition et la représentation de matériaux qui constituent des problèmes complexes pour obtenir des images réalistes de manière efficace.&lt;/li>
+&lt;li>L&amp;rsquo;intelligence artificielle, et notamment sur l&amp;rsquo;apprentissage profond, qui nécessite un grand nombre d&amp;rsquo;images et de données en entrée qui sont souvent impossible à obtenir. La synthèse est une des clés permettant de générer ces données.&lt;/li>
+&lt;li>L&amp;rsquo;échantillonnage des données sur chaque pixel qui constitue un aspect primordial pour générer des images de qualité rapidement lors de la résolution de l&amp;rsquo;équation du rendu. Même si le problème n&amp;rsquo;est pas récent, il est toujours traité activement par la communauté.&lt;/li>
+&lt;li>Le rendu expressif, dont l&amp;rsquo;objectif est de produire des images stylisées ou plausibles en s&amp;rsquo;appuyant sur des schémas d&amp;rsquo;approximation du transport de la lumière ainsi que sur des analyses et expériences perceptuelles.&lt;/li>
+&lt;li>La génération de textures (par l&amp;rsquo;exemple ou procéduralement) qui constitue également un domaine de recherche actif pour obtenir des solutions en temps réel en contrôlant précisément les aspects de l&amp;rsquo;apparence finale des surfaces.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Réalités virtuelles" (GT-RV)</title><link>https://gdr-igrv.fr/gts/gt-rv/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-rv/</guid><description>&lt;img src="photo gtrv.png" height="300">
+&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Pierre Chevaillier (Lab-STICC/CERV, ENIB,
+Brest), Laure Leroy (Paragraphe, univ. Paris 8 / IRBA).&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multi-modalité,
+perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité.&lt;/li>
+&lt;/ul>
+&lt;p>Le thème générique des modèles et techniques d’interaction en environnement virtuel, que ce soit
+dans un contexte de réalité virtuelle ou dans un contexte de réalité augmentée est central pour ce
+groupe de travail. La problématique de l’immersion et de l’interaction est abordée à la fois sous un
+angle technologique, essentiellement informatique, et d’un point de vue humano-centré. Malgré les
+très nombreux travaux scientifiques et les améliorations constantes des dispositifs techniques,
+l’interaction en environnement 3D reste un sujet d’actualité qui est très loin d’être clos, car il reste
+encore aujourd’hui difficile pour un sujet humain d’interagir avec un tel environnement. Le cœur
+scientifique de ce groupe de travail est la prise en compte les situations d&amp;rsquo;interaction d&amp;rsquo;un sujet humain
+avec un environnement de synthèse dans lequel il se trouve immergé, que ce soit dans un contexte de
+réalité virtuelle ou dans un contexte de réalité augmentée. L&amp;rsquo;objet d&amp;rsquo;étude est le couplage perceptivo-
+moteur et cognitif entre l&amp;rsquo;utilisateur et l&amp;rsquo;environnement. La question est donc abordée selon le
+triptyque : (1) tâche (action à réaliser dans l’environnement), (2) dispositif, à la fois logiciel (mise en
+évidence d’une métaphore d’interaction) et matériel (dispositif d’interaction) et (3) expérience vécue
+par le sujet humain.&lt;/p>
+&lt;p>Les nouvelles générations de dispositifs immersifs, visiocasques, lunettes de réalité augmentée, ou
+l’extension de leurs usages, soulèvent des questions sur leur acceptabilité, la nécessité d’une
+conception spécifique des environnements virtuels et des interfaces 3D, ou les limites des capacités
+d’adaptation des sujets humains à leur utilisation. Ces questions sont d’autant plus pertinentes que la
+réalité virtuelle ou augmentée est peut-être en passe de sortir d’un usage limité dans le temps, la
+nature des tâches et le profil des utilisateurs, pour investir des usages destinés à un public plus vaste
+(enfants, adultes, personnes âgées), pour des usages variés (ludiques, éducatifs, médicaux, etc.). Ce
+nouveau contexte motive que la communauté scientifique dresse un état des connaissances sur le
+36domaine et s’interroge sur les nouvelles études à mener. Par exemple, on peut s’interroger sur l’impact
+du type de dispositif sur la perception des distances, du mouvement, la précision des gestes, la
+locomotion, la perception de soi… Est-ce que les avancées technologiques font que les dispositifs ont
+des caractéristiques techniques garantissant une immersion de qualité (selon quels critères) ? Est-ce
+que les valeurs critiques des différents critères d’acceptabilité sont les mêmes ? Que sait-on de
+l’impact de leurs caractéristiques sur les processus physiologiques et cognitifs ? Existe-t-il des risques
+connus, potentiels, en matière de santé publique ? Est-il envisageable de définir des guides de
+conception des environnements virtuels adaptés à ces nouveaux contextes ?&lt;/p></description></item><item><title>Groupe de travail "Visualisation" (GT-Visu)</title><link>https://gdr-igrv.fr/gts/gt-visu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/gts/gt-visu/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Julien Tierny (LIP6, Paris) et Romain Vuillemot (LIRIS, Lyon)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Visualisation scientifique, visualisation d’informations, Visual Analytics, Visual Data Mining, visualisation in-situ, High Performance Visualization, interactions visuelles, visualisation d&amp;rsquo;informations incertaines.&lt;/li>
+&lt;/ul></description></item><item><title>Prix de thèse du GdR</title><link>https://gdr-igrv.fr/actions/prix-de-these/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/actions/prix-de-these/</guid><description>&lt;p>Depuis de 2017, le GdR IG-RV organise un prix de thèse IGRV avec le soutien des associations AFIG, AFRV et EGFR. L’objectif de ce prix de thèse est de récompenser chaque année une excellente thèse issue de la communauté du GdR IG-RV. L’intérêt est double. Pour le ou la jeune docteur(e) concerné(e), ce prix apportera une grande visibilité à ses travaux et une reconnaissance de la communauté du GdR sur l’excellence des résultats obtenus. Pour la communauté du GdR, ce prix permettra de rendre visible très largement des travaux de premier ordre issus de nos thématiques de recherche. Le contour disciplinaire du prix est celui du GdR Informatique Géométrique et Graphique, Réalité Virtuelle et Visualisation et de ses groupes de travail. Chaque année le jury du prix de thèse du GdR propose un(e) lauréat(e) et d&amp;rsquo;éventuels accessits au comité de pilotage du GdR pour validation. Le jury constitué de membres représentatifs des thèmes du GdR IG-RV est présidé par Loïc BARTHE (IRIT, Toulouse) et David COEURJOLLY (LIRIS, Lyon).&lt;/p>
+&lt;h1 id="appel-2022">Appel 2022&lt;/h1>
+&lt;p>Pour le prix 2022, nous invitons tous les docteurs ayant soutenu leur thèse entre le 01/01/2021 et le 31/12/2021 à poser une candidature sur le site de soumission mis à votre disposition à l’URL suivant : &lt;a href="https://prixigrv2022.sciencesconf.org/" target="_blank" rel="noopener">https://prixigrv2022.sciencesconf.org/&lt;/a>&lt;/p>
+&lt;p>La date limite de soumission était le 1er mars 2022 pour une décision avant l’été. Pour compléter votre soumission, voir les modalités ci-dessous en bas de page.&lt;/p>
+&lt;h1 id="appel-2021">Appel 2021&lt;/h1>
+&lt;p>&lt;strong>Lauréate : Rebecca Fribourg&lt;/strong> pour sa thèse intitulée « Contribution to the study of factors influencing the sense of embodiment towards avatars in virtual reality », effectuée sous la direction d’Anatole Lécuyer, Ferran Argelaguet et Ludovic Hoyet à l’Université de Rennes 1.&lt;/p>
+&lt;p>&lt;strong>Accessit : Pierre Ecormier-Nocca&lt;/strong> pour sa thèse intitulée « Authoring consistent, animated ecosystems: Efficient learning from partial data », effectuée sous la direction de Marie-Paule Cani et Pooran Memari à l’Ecole Polytechnique.&lt;/p>
+&lt;p>Le jury de sélection a été animé par David Coeurjolly et Loïc Barthe et il était composé de Florence Bertails-Descoubes, Georges-Pierre Bonneau, George Drettakis, Samuel Hornus, Daniel Mestre, Alexis Paljic et Julien Tierny.&lt;/p>
+&lt;h1 id="résultats-du-prix-2020">Résultats du prix 2020&lt;/h1>
+&lt;p>&lt;strong>Lauréat : Valentin Deschaintre&lt;/strong> (Inria Sophia) pour sa thèse intitulée “Acquisition légère de matériaux par apprentissage profond&amp;quot;, effectuée sous la co-direction de Adrien Bousseau et George Drettakis.&lt;/p>
+&lt;p>Le jury 2020 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Georges-Pierre Bonneau, George Drettakis, Samuel Hornus, Maud Marchal, Alexis Paljic et Julien Tierny.&lt;/p>
+&lt;p>Pour plus d&amp;rsquo;informations, voir &lt;a href="https://prixigrv2020.sciencesconf.org/" target="_blank" rel="noopener">prix de thèse IGRV2020&lt;/a>.&lt;/p>
+&lt;h1 id="résultats-du-prix-2019">Résultats du prix 2019&lt;/h1>
+&lt;p>&lt;strong>Lauréat : Guillaume Cordonnier&lt;/strong> (Université Grenoble Alpes) pour sa thèse intitulée “Modèles à couches pour simuler l&amp;rsquo;évolution de paysages à grande échelle”, effectuée sous la co-direction de Marie-Paule Cani et Eric Galin. &lt;a href="http://www.theses.fr/2018GREAM072" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2019_Cordonnier.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Accessit : Jean-Dominique Favreau&lt;/strong> (Inria Sophia) pour sa thèse intitulée “Vectorisation compacte d’images par approches stochastiques”, effectuée sous la co-direction de Adrien Bousseau et Florent Lafarge. &lt;a href="http://www.theses.fr/2018AZUR4004" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2019_Accessit_Favreau.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/p>
+&lt;p>Le jury 2019 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Raphaëlle Chaine, George Drettakis, Jacques-Olivier Lachaud, Maud Marchal, Alexis Paljic, Julien Tierny.&lt;/p>
+&lt;p>Pour plus d&amp;rsquo;informations, voir &lt;a href="https://prixigrv2019.sciencesconf.org/" target="_blank" rel="noopener">prix de thèse IGRV2019&lt;/a>.&lt;/p>
+&lt;h1 id="résultats-2018">Résultats 2018&lt;/h1>
+&lt;p>&lt;strong>Lauréat : Jérémie Dumas&lt;/strong> (Université de Lorraine) pour sa thèse intitulée “Synthèse de formes contrôlable pour la fabrication digitale”, effectuée sous la direction de Sylvain Lefebvre (LORIA et Inria Grand Est), &lt;a href="https://www.jdumas.org/phd/" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Dumas.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Accessits :&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Lonni Besançon&lt;/strong> (Université Paris-Saclay) pour sa thèse intitulée “An interaction Continuum for 3D Data Visualization”, effectuée sous la co-direction de Tobias Isenberg et Mehdi Ammi (LIMSI, Orsay), &lt;a href="https://tel.archives-ouvertes.fr/tel-01684210/" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Accessit-1_Besancon.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>Tibor Stanko&lt;/strong> (Université Grenoble Alpes) pour sa thèse intitulée “Shape reconstruction of meshed smooth surfaces equipped with inertial sensors”, effectuée sous la co-direction de Stefanie Hahmann (LJK, Grenoble), Georges-Pierre Bonneau (LJK, Grenoble) et Nathalie Saguin-Sprynski, &lt;a href="https://hal.inria.fr/tel-01673779" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2018_Accessit-2_Stanko.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Le jury 2018 a été animé par Loïc Barthe et David Coeurjolly. Il était composé de Raphaëlle Chaine, Pierre De Loor, Julien Tierny, Jacques-Olivier Lachaud, Maud Marchal et Mathias Paulin.&lt;/p>
+&lt;p>Pour plus d&amp;rsquo;informations, voir &lt;a href="https://prixigrv2018.sciencesconf.org/" target="_blank" rel="noopener">prix de thèse IGRV2018&lt;/a>.&lt;/p>
+&lt;h1 id="résultats-2017">Résultats 2017&lt;/h1>
+&lt;p>&lt;strong>Lauréat : Gilles Daviet&lt;/strong> (Université de Grenoble) pour sa thèse intitulée &amp;ldquo;Modèles et algorithmes pour la simulation du contact frottant dans les matériaux complexes - Application aux milieux fibreux et granulaires&amp;rdquo;, effectuée sous la direction de Florence Bertails-Descourbes (LJK, Grenoble et Inria Rhône-Alpes). &lt;a href="https://tel.archives-ouvertes.fr/tel-01519203/" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Daviet.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Accessits:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Merwan Achibet&lt;/strong> (INSA Rennes) pour sa thèse intitulée &amp;ldquo;Contributions to the Design of Novel Hand-based Interaction Techniques for Virtual Environments&amp;rdquo;, effectuée sous la direction de Maud Marchal (IRISA et INSA Rennes) et Anatole Lécuyer (IRISA et Inria Rennes) . &lt;a href="http://www.theses.fr/2015ISAR0031" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Accessit-2_Achibet.mp4" target="_blank" rel="noopener">Vidéo&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Aldo Gonzalez Lorenzo&lt;/strong> (Aix-Marseille Université, Universidad de Sevilla) pour sa thèse intitulée &amp;ldquo;Computational Homology Applied to Discrete Objects&amp;rdquo;, effectuée sous la direction de Jean-Luc Mari (Aix-Marseille Université), Alexandra Bac (Aix-Marseille Université) et Pedro Real (Universidad de Sevilla). &lt;a href="http://www.theses.fr/2016AIXM4073" target="_blank" rel="noopener">Thèse&lt;/a> &lt;a href="https://www.irit.fr/STORM/site/files-web/prixthese-igrv/videos/Prix-These-IGRV-2017_Accessit-1_Gonzalez-Lorenzo.ogv" target="_blank" rel="noopener">Vidéo&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Le jury constitué de membres représentatifs des thèmes du GdR IG-RV était présidé par Loïc Barthe et David Coeurjolly.&lt;/p>
+&lt;p>Pour plus d&amp;rsquo;informations, voir &lt;a href="https://prixigrv2017.sciencesconf.org/" target="_blank" rel="noopener">prix de thèse IGRV2017&lt;/a>.&lt;/p>
+&lt;h1 id="modalités">Modalités&lt;/h1>
+&lt;p>Les modalités pratiques sont précisées ci-dessous et rappelées par mail sur la liste du GdR IG-RV.
+Pour les candidats ayant soutenu leur thèse durant l&amp;rsquo;année civile précédent l&amp;rsquo;année de tenue du jury du prix de thèse IGRV, les pièces suivantes seront demandées :&lt;/p>
+&lt;ul>
+&lt;li>un CV (2 pages maximum) ;&lt;/li>
+&lt;li>une liste de publications ;&lt;/li>
+&lt;li>le manuscrit de thèse ;&lt;/li>
+&lt;li>les rapports des rapporteurs (-trices) ;&lt;/li>
+&lt;li>le rapport soutenance ;&lt;/li>
+&lt;/ul>
+&lt;p>Ce prix de thèse du GdR IG-RV est parrainé par la SIF. Le GdR encourage les candidats de nos domaines à déposer des dossiers au prix de thèse Gilles Kahn de la SIF, et en particulier le(a) lauréat(e) et les éventuels accessits du prix de thèse du GdR IG-RV.&lt;/p></description></item><item><title>La gazette du GT « Modélisation géométrique », n°0</title><link>https://gdr-igrv.fr/post/21-07-20-gtmg-gazette/</link><pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/post/21-07-20-gtmg-gazette/</guid><description>&lt;p>Le &lt;a href="https://gdr-igrv.fr/gts/gt-mg/">GT MG&lt;/a> a lancé le &lt;a href="https://gtmg.u-bourgogne.fr/wp-content/uploads/2021/07/gazette-GTMG_n0_16juillet2021.pdf" target="_blank" rel="noopener">premier numéro&lt;/a> de sa gazette.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>https://gdr-igrv.fr/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/publication/preprint/</guid><description>&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://gdr-igrv.fr/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://gdr-igrv.fr/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title/><link>https://gdr-igrv.fr/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/admin/config.yml</guid><description/></item><item><title/><link>https://gdr-igrv.fr/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/contact/</guid><description/></item><item><title/><link>https://gdr-igrv.fr/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gdr-igrv.fr/people/</guid><description/></item></channel></rss>
